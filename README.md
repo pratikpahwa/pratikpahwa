@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Pratik Pahwa</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analyst+and+BI+Professional;Always+learning+new+things;10%2B+years+of+analytics+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analyst+and+BI+Professional;Always+learning+new+tech;10%2B+years+of+analytics+experience" alt="Typing SVG" /></a>
 </p>
   <!-- <h3 align="center">A passionate Data Analytics and Business Intelligence professional</h3> -->
 <img align ="right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -12,7 +12,7 @@
 **🔑 Key Skills:**
 - **Data Analysis**
 - **Data Visualization & Reporting**
-- **Data Modelling & Data Mining**
+- **Data Modelling**
 - **Requirement Gathering**
 - **Stakeholder Management**
 - **Project Management**
